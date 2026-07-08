@@ -66,4 +66,57 @@ Ingeniero de Sistemas enfocado en el desarrollo de software web y móvil, integr
     <td width="50%">
       <h3 align="center">Sistema para Restaurante</h3>
       <p>Aplicación web desplegada para gestión de restaurantes. Incluye flujo completo de autenticación y consumo de APIs REST.</p>
-      <p><b>Demo:</b> <a href="https://frontend-restaur
+      <p><b>Demo:</b> <a href="https://frontend-restaurante-six.vercel.app/login">Ver Demo</a></p>
+      <p><b>Credenciales de prueba:</b><br>
+      • Usuario: <code>jperez@ejemplo.com</code><br>
+      • Clave: <code>123456</code></p>
+      <p><b>Stack:</b> Angular, TypeScript, SCSS, Spring Boot, PostgreSQL</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Juego de Trivia</h3>
+      <p>Aplicación web interactiva de preguntas y respuestas desplegada en Vercel, conectada a un backend para la gestión del juego.</p>
+      <p><b>Demo:</b> <a href="https://juego-trivia-frontend.vercel.app/">Ver Demo</a></p>
+      <br>
+      <p><b>Stack:</b> React, JavaScript, Spring Boot</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Portafolio Web Profesional</h3>
+      <p>Plataforma web tipo hoja de vida interactiva para la presentación de perfil profesional, habilidades y proyectos desarrollados.</p>
+      <p><b>Demo:</b> <a href="https://github.com/brianandres54321-ux/portafolio-web">Ver Repositorio</a></p>
+      <br>
+      <p><b>Stack:</b> Angular, TypeScript, SCSS, Bootstrap</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Repositorio JDC</h3>
+      <p>Plataforma web académica con control de roles, autenticación de usuarios y administración de archivos. Integración de APIs REST.</p>
+      <br>
+      <p><b>Stack:</b> Angular, Spring Boot, MySQL</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Desarrollo Móvil Android</h3>
+      <p>Aplicaciones móviles nativas con consumo de APIs REST en tiempo real e interfaces adaptables a múltiples dispositivos.</p>
+      <br>
+      <p><b>Stack:</b> Java, Kotlin, Android Studio</p>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+---
+
+## Educación y Certificaciones
+
+### Títulos Académicos
+* **Ingeniero de Sistemas** — Fundación Universitaria Juan De Castellanos (2025)
+* **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** — SENA (2022)
+
+### Certificaciones
+* **Creación de Páginas Web con Bases de Datos, PHP y MySQL** — SENA (40 horas)
+* **Desarrollo de Aplicaciones Web con PHP** — SENA (80 horas)
+* **Diseño de Páginas Web usando PHP y MySQL** — SENA (40 horas)
+* **English Dot Works 1** — SENA (60 horas)
+* **English Dot Works 2** — SENA (60 horas)
