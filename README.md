@@ -27,14 +27,16 @@ Ingeniero de Sistemas enfocado en el desarrollo de software web y móvil, integr
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/><br><b>TypeScript</b></td>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/><br><b>Node.js</b></td>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/><br><b>HTML5</b></td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/><br><b>Bootstrap</b></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/><br><b>CSS3</b></td>
   </tr>
   <tr>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/><br><b>Sass / SCSS</b></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/><br><b>Bootstrap</b></td>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/><br><b>PHP</b></td>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/><br><b>Kotlin</b></td>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br><b>JavaScript</b></td>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40"/><br><b>jQuery</b></td>
-    <td colspan="3"></td>
+    <td></td>
   </tr>
 </table>
 
@@ -68,7 +70,7 @@ Ingeniero de Sistemas enfocado en el desarrollo de software web y móvil, integr
       <p><b>Credenciales de prueba:</b><br>
       • Usuario: <code>jperez@ejemplo.com</code><br>
       • Clave: <code>123456</code></p>
-      <p><b>Stack:</b> Angular, TypeScript, Spring Boot, PostgreSQL</p>
+      <p><b>Stack:</b> Angular, TypeScript, SCSS, Spring Boot, PostgreSQL</p>
     </td>
     <td width="33%">
       <h3 align="center">Repositorio JDC</h3>
