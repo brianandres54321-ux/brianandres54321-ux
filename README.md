@@ -84,7 +84,7 @@ Ingeniero de Sistemas enfocado en el desarrollo de software web y móvil, integr
     <td width="50%">
       <h3 align="center">Portafolio Web Profesional</h3>
       <p>Plataforma web tipo hoja de vida interactiva para la presentación de perfil profesional, habilidades y proyectos desarrollados.</p>
-      <p><b>Demo:</b> <a href="https://github.com/brianandres54321-ux/portafolio-web">Ver Repositorio</a></p>
+      <p><b>Demo:</b> <a href="https://portafolio-web-seven-kohl.vercel.app/">Ver Repositorio</a></p>
       <br>
       <p><b>Stack:</b> Angular, TypeScript, SCSS, Bootstrap</p>
     </td>
