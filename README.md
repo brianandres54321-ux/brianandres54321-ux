@@ -9,21 +9,27 @@ Ingeniero de Sistemas enfocado en el desarrollo de software web y móvil, integr
 ## Tecnologías y Herramientas
 
 ### Lenguajes y Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
 
 ### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+</p>
 
 ### Entornos y Herramientas
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
 
 ---
 
@@ -31,15 +37,26 @@ Ingeniero de Sistemas enfocado en el desarrollo de software web y móvil, integr
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
+      <h3 align="center">Sistema para Restaurante</h3>
+      <p>Aplicación web desplegada para gestión de restaurantes. Incluye flujo completo de autenticación y consumo de APIs REST.</p>
+      <p><b>Demo:</b> <a href="https://frontend-restaurante-six.vercel.app/login">Ver Demo</a></p>
+      <p><b>Credenciales de prueba:</b><br>
+      • Usuario: <code>jperez@ejemplo.com</code><br>
+      • Clave: <code>123456</code></p>
+      <p><b>Stack:</b> Angular, Spring Boot, PostgreSQL</p>
+    </td>
+    <td width="33%">
       <h3 align="center">Repositorio JDC</h3>
-      <p>Plataforma web académica con control de roles, autenticación de usuarios y administración de archivos[cite: 1]. Integración de APIs REST con arquitectura desacoplada[cite: 1].</p>
+      <p>Plataforma web académica con control de roles, autenticación de usuarios y administración de archivos[cite: 1]. Integración de APIs REST[cite: 1].</p>
+      <br>
       <p><b>Stack:</b> Angular, Spring Boot, MySQL[cite: 1]</p>
     </td>
-    <td width="50%">
+    <td width="33%">
       <h3 align="center">Desarrollo Móvil Android</h3>
-      <p>Aplicaciones móviles nativas con consumo de APIs REST en tiempo real e interfaces responsivas adaptables a múltiples dispositivos[cite: 1].</p>
-      <p><b>Stack:</b> Java, Kotlin, Android Studio, REST API[cite: 1]</p>
+      <p>Aplicaciones móviles nativas con consumo de APIs REST en tiempo real e interfaces adaptables a múltiples dispositivos[cite: 1].</p>
+      <br>
+      <p><b>Stack:</b> Java, Kotlin, Android Studio[cite: 1]</p>
     </td>
   </tr>
 </table>
